@@ -27,8 +27,3 @@ HireVantage-AI is a high-performance career coaching platform that leverages sta
 
 ---
 
-### 🚀 Getting Started
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/Sakshi1823/HireVantage-AI.git](https://github.com/Sakshi1823/HireVantage-AI.git)
